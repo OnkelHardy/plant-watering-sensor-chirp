@@ -1,6 +1,8 @@
 # plant-watering-sensor-chirp
 Application and programming of the irrigation sensor Chirp.
 
+![](https://github.com/OnkelHardy/plant-watering-sensor-chirp/blob/master/pics/20190810-150327.jpg)
+
 ![](https://github.com/OnkelHardy/plant-watering-sensor-chirp/blob/master/pics/20190810-150337.jpg)
 
 Dieses ist ein Remix von http://www.thingiverse.com/thing:3360957
